@@ -1,5 +1,5 @@
 
-# CodeX Tickets - Discord Support Bot
+# Laced Tickets - Discord Support Bot
 
 A comprehensive Discord bot for managing support tickets with advanced features like categorization, rating system, and automated responses.
 
